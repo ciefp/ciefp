@@ -1,6 +1,5 @@
-<img align="right" width="360" src="https://github.com/ciefp/ciefp/blob/main/assets/ciefp-logo.png?raw=true" alt="ciefp" />
-
 # Hey there 👋
+<img align="right" width="360" src="https://github.com/ciefp/ciefp/blob/main/assets/ciefp-logo.png?raw=true" alt="ciefp" />
 
 I'm **ciefp** — long-time satellite enthusiast and Enigma2 developer.  
 I've been building channel lists since the Enigma1 era and for more than a decade on Enigma2.  
