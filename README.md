@@ -55,4 +55,7 @@ Everything I release is and always will be **100% free and open-source**.
 <br>
 
 <div align="center">
+  <img src="https://github.com/ciefp/ciefp/blob/main/assets/ciefp-banner.png?raw=true" alt="Ciefp Banner" width="100%"/>
+</div>
+<div align="center">
   <img src<|eos|>
