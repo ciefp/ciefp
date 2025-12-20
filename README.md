@@ -39,7 +39,7 @@ Everything I release is and always will be **100% free and open-source**.
 | [CiefpTMDBSearch](https://github.com/ciefp/CiefpTMDBSearch)                   | Revolutionary TMDB search plugin for Enigma2 that makes exploring movies and series more fun than watching them!        | 100+  |
 | [CiefpOscamEditor](https://github.com/ciefp/CiefpOscamEditor)             | Advanced OSCam dvbapi editor + live ECM.info display                       | 85+   |
 | [CiefpSatelliteAnalyzer](https://github.com/ciefp/CiefpSatelliteAnalyzer) | T2-MI / Abertis analyzer + automatic bouquet creation                      | 70+   |
-| [CiefpEPGshare](https://github.com/ciefp/CiefpEPGshare)                   | Direct EPG selection from epgshare01.online                                | 65+   |
+| [CiefpPlugins](https://github.com/ciefp/CiefpPlugins)                   | One-click installation of 29 Ciefp plugins                                | 65+   |
 
 ## 📬 Contact & Support
 - Forum support: LinuxSat, Satelitski forum, Digital-Forum, OpenATV/PLi boards  
