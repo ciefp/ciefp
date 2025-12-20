@@ -34,9 +34,9 @@ Everything I release is and always will be **100% free and open-source**.
 
 | Project                                          | Description                                                                 | Stars |
 |--------------------------------------------------|-----------------------------------------------------------------------------|-------|
-| [CiefpIPTVBouquets](https://github.com/ciefp/CiefpIPTVBouquets)           | Advanced IPTV bouquet creator with full EPG support                        | 120+  |
-| [CiefpWhitelistStreamrelay](https://github.com/ciefp/CiefpWhitelistStreamrelay) | Selective Stream Relay – only chosen channels go through port 8001/8088    | 95+   |
-| [CiefpSettings](https://github.com/ciefp/CiefpSettings)                   | All-in-one panel (IPK installer, plugin manager, auto-update, etc.)        | 110+  |
+| [ciefpsettings-enigma2](https://github.com/ciefp/ciefpsettings-enigma2)           | The #1 source for Enigma2 satellite settings – 17 years strong                        | 120+  |
+| [CiefVibes](https://github.com/ciefp/CiefpVibes) | CiefpVibes - Enigma2 Music Jukebox Plugin | 110+   |
+| [CiefpTMDBSearch](https://github.com/ciefp/CiefpTMDBSearch)                   | Revolutionary TMDB search plugin for Enigma2 that makes exploring movies and series more fun than watching them!        | 100+  |
 | [CiefpOscamEditor](https://github.com/ciefp/CiefpOscamEditor)             | Advanced OSCam dvbapi editor + live ECM.info display                       | 85+   |
 | [CiefpSatelliteAnalyzer](https://github.com/ciefp/CiefpSatelliteAnalyzer) | T2-MI / Abertis analyzer + automatic bouquet creation                      | 70+   |
 | [CiefpEPGshare](https://github.com/ciefp/CiefpEPGshare)                   | Direct EPG selection from epgshare01.online                                | 65+   |
